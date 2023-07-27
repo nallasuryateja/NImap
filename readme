@@ -1,0 +1,10 @@
+Machine Test - React Js
+
+Introduction
+Create a web panel consisting of four different pages and a global
+search in the Navbar.
+1. Home Page / Popular Movie Page
+2. Top Rated Page
+3. Upcoming Movie Page
+4. Single Movie Detail Page
+5. Searched Movie Page (UI will be same as Home Page)
